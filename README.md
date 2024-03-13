@@ -21,6 +21,9 @@ As it is built with Go, so speed isn't a compromise 🚀.
 go install github.com/27Saumya/localizer@latest
 ```
 
+### Using Github Releases
+Navigate to [releases](https://github.com/27Saumya/localizer/releases/latest), find the suitable binary for your OS and install to get started
+
 ## Usage
 ```bash
 localizer help
