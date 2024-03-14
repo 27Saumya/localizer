@@ -1,6 +1,8 @@
 package internal
 
 var (
+	Version = "0.1.1"
+
 	Languages = map[string]string{
 		"auto":  "Automatic",
 		"af":    "Afrikaans",
