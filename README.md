@@ -9,7 +9,7 @@
 <div align="left">
 
 ## Overview
-Localizer helps you localize (add internalization) within your Xcode application within seconds, so you just have to focus on the code!
+Localizer helps you localize (add internationalisation) within your Xcode application within seconds, so you just have to focus on the code!
 As it is built with Go, so speed isn't a compromise 🚀.
 
 ![localizer-demo](https://github.com/27Saumya/localizer/assets/64534496/be26ea72-3825-426e-9cfd-3b879193c2b7)
